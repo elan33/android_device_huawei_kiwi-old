@@ -124,6 +124,7 @@
             64 - Volume keys
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
+    <add-resource type="integer" name="config_deviceHardwareKeys" />
     <integer name="config_deviceHardwareKeys">64</integer>
 
     <!-- Hardware keys present on the device with the ability to wake, stored as a bit field.
@@ -138,9 +139,11 @@
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
+    <add-resource type="integer" name="config_deviceHardwareWakeKeys" />
     <integer name="config_deviceHardwareWakeKeys">64</integer>
 
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
+    <add-resource type="bool" name="config_intrusiveBatteryLed" />
     <bool name="config_intrusiveBatteryLed">true</bool>
 
     <!-- Is the notification LED intrusive? Used to decide if there should be a disable option -->
@@ -148,6 +151,7 @@
 
     <!-- Does the notification LED support multiple colors?
                   Used to decide if the user can change the colors -->
+    <add-resource type="bool" name="config_multiColorNotificationLed" />
     <bool name="config_multiColorNotificationLed">true</bool>
 
     <!-- Default color for notification LED. -->
