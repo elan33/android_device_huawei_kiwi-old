@@ -25,6 +25,12 @@
   },
   {
     "remote": "github",
+    "repository": "TurboROM/packages_apps_ViPER4Android",
+    "target_path": "packages/apps",
+    "revision": "mm"
+  },
+  {
+    "remote": "github",
     "repository": "elan33/android_device_huawei_kiwi",
     "target_path": "device/huawei/kiwi",
     "revision": "crdroid6.0"
