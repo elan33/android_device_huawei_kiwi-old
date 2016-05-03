@@ -19,6 +19,18 @@
   },
   {
     "remote": "github",
+    "repository": "omnirom/android_packages_apps_OmniSwitch",
+    "target_path": "packages/apps",
+    "revision": "android-6.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_packages_apps_CMFileManager",
+    "target_path": "packages/apps",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
     "repository": "elan33/android_device_huawei_kiwi",
     "target_path": "device/huawei/kiwi",
     "revision": "slim6.0"
