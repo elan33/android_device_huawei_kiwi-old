@@ -174,7 +174,9 @@ PRODUCT_BOOT_JARS += \
     qcmediaplayer
     
 PRODUCT_PACKAGES += \
-    ViPER4Android
+    ViPER4Android \
+    OmniSwitch \
+    CMFileManager
 
 # Power HAL
 PRODUCT_PACKAGES += \
