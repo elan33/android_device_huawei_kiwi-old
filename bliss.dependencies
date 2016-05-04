@@ -26,13 +26,13 @@
   {
     "remote": "github",
     "repository": "Grarak/KernelAdiutor",
-    "target_path": "packages/apps",
+    "target_path": "packages/apps/KernelAdiutor",
     "revision": "master"
   },
   {
     "remote": "github",
     "repository": "TurboROM/packages_apps_ViPER4Android",
-    "target_path": "packages/apps",
+    "target_path": "packages/apps/ViPER4Android",
     "revision": "mm"
   },
   {
