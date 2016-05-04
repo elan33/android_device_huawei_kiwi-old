@@ -174,8 +174,7 @@ PRODUCT_BOOT_JARS += \
     qcmediaplayer
     
 PRODUCT_PACKAGES += \
-    ViPER4Android \
-    KernelAdiutor
+    ViPER4Android
 
 # Power HAL
 PRODUCT_PACKAGES += \
