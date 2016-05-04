@@ -33,7 +33,7 @@
     "remote": "github",
     "repository": "elan33/android_device_huawei_kiwi",
     "target_path": "device/huawei/kiwi",
-    "revision": "crdroid6.0"
+    "revision": "bliss6.0"
   },
   {
     "remote": "github",
