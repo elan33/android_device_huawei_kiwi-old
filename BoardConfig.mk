@@ -179,3 +179,15 @@ WIFI_DRIVER_MODULE_NAME := "wlan"
 
 # inherit from the proprietary version
 -include vendor/huawei/kiwi/BoardConfigVendor.mk
+
+# Bliss Configs
+BLISS_WIPE_CACHES := 1
+BLISSIFY := true
+BLISS_O3 := true
+BLISS_STRICT := false
+BLISS_GRAPHITE := true
+BLISS_KRAIT := false
+BLISS_PIPE := true
+
+#SaberMod
+# -include vendor/bliss/config/sm.mk
